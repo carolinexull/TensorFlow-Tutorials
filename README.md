@@ -1,0 +1,4 @@
+# TensorFlow-Tutorials
+tensorflow 练手小程序
+这里的程序大部分都是按照aymericdamien和另外一个大牛的教程自己写了一遍。
+主要是为了熟悉一下tensorflow的编程风格以及常用函数/操作的功能作用。
